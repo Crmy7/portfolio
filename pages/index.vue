@@ -11,13 +11,13 @@
       <div class="line flex justify-start content-center items-center">
         <p>02</p>
         <h2 class="font-cuprum font-bold fisth2 titleH">
-          Je suis <span>Développeur Web</span> en troisième année de
+          Je suis <span>Développeur Web</span> en première année de
         </h2>
       </div>
       <div class="line flex justify-start content-center items-center">
         <p>03</p>
         <h2 class="font-cuprum font-bold fisth3 titleH">
-          bachelor à <span>MyDigitalSchool</span> Annecy !
+          Master à <span>MyDigitalSchool</span> Annecy !
         </h2>
       </div>
     </div>
