@@ -3,14 +3,14 @@ export default defineNuxtConfig({
   app: {
     head: {
       charset: "utf-16",
-      title: "Charles Rémy | Étudiant Développement Web.",
+      title: "Charles Rémy | Développeur Full Stack",
       viewport:
         'name="viewport" content="width=device-width, height=device-height, initial-scale=1"',
       meta: [
         {
           name: "description",
           content:
-            "Je m'appelle Charles Rémy, j'ai 20 ans je suis en troisième année en Bachelor Développement Web à MyDigitalSchool à Annecy.",
+            "Je m'appelle Charles Rémy, j'ai 21 ans je suis en première année de Master Développeur Full Stack à MyDigitalSchool à Annecy et actuellement en alternance chez BB® Switzerland.",
         },
       ],
       link: [
