@@ -45,14 +45,14 @@
         <div
           class="relative w-fit px-5 h-12 bg-white bg-opacity-5 rounded-full flex items-center justify-center"
         >
-          <span class="text-2xl font-bold text-white">Charles Rémy</span>
+          <span class="text-2xl font-bold text-white">Portfolio</span>
         </div>
       </div>
 
       <!-- Main heading -->
       <h1 class="text-6xl sm:text-8xl font-extrabold mb-6 tracking-tight">
         <span class="bg-clip-text text-transparent" :class="titleGradient">
-          Portfolio
+          Charles Rémy
         </span>
       </h1>
 
